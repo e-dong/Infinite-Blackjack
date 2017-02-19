@@ -8,6 +8,7 @@ Dependencies: Card.java, Player.java
 to run: java BlackJack
 
 Rules of the Game:
+
 Rules are the same as traditional BlackJack except there are an infinite number of cards.
 The player begins with 100 dollars. He may bet anywhere between 0.01 to 100.00 dollars. If the player beats the dealer, the player wins the amount of he bet. If the player loses a hand, the player will lose that amount of money. 
 
