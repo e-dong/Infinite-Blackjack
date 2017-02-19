@@ -35,3 +35,5 @@ Second character is the card's suit
   - s = Spades
   - d = Diamonds
   - h = Hearts
+  
+Example: Qs is the string representation for Queen of Spades 
